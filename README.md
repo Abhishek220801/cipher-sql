@@ -4,6 +4,9 @@ CipherSQLStudio is a browser-based SQL practice environment built for the assign
 
 The platform focuses on providing a smooth SQL learning experience with a clean editor workflow, real-time query execution, and clear visibility of results.
 
+<img width="1347" height="595" alt="image" src="https://github.com/user-attachments/assets/4805d5f2-2e95-419b-9b81-2fb35410d54a" />
+<img width="1257" height="323" alt="image" src="https://github.com/user-attachments/assets/f513bd62-f2e8-4682-a716-d497b839e57d" />
+
 ---
 
 ## 🚀 Overview
@@ -108,6 +111,6 @@ npm install
 
 # start project
 npm run dev
+```
 
-<img width="1347" height="595" alt="image" src="https://github.com/user-attachments/assets/4805d5f2-2e95-419b-9b81-2fb35410d54a" />
-<img width="1257" height="323" alt="image" src="https://github.com/user-attachments/assets/f513bd62-f2e8-4682-a716-d497b839e57d" />
+
