@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://tahoe-keno-gem-reasons.trycloudflare.com';
